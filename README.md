@@ -20,4 +20,4 @@ Used classes:
 - Test1 - child class from the first derivative;
 - Test2 - child class from the first derivative.
 
-See class diagram.
+See ![Class Diagram](https://github.com/EvgeniaSap/Gbiol/issues/1#issue-1391633224).
