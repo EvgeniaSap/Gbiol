@@ -21,3 +21,15 @@ Used classes:
 - Test2 - child class from the first derivative.
 
 See ![Class Diagram](https://github.com/EvgeniaSap/Gbiol/issues/1#issue-1391633224).
+## Data organization
+Input:
+- text file `теория.txt` with theoretical material;
+- text file `вопросы.txt` with control questions;
+- lines containing answers to questions;
+- a positive integer that specifies the maximum complexity of the questions for the user;
+- positive integer – menu key.
+
+Output:
+- text file `ответы.txt` with test results;
+- report on the work of the program;
+- list of diagnostic messages.
